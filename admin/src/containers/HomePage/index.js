@@ -10,7 +10,7 @@ const HomePage = () => {
       <Container className="container-fluid">
         <div className="row">
           <div className="col-lg-8 col-md-12">
-            <img src={logoImg} alt="Imagem de uma moeda com um cachorro estampado" />
+            <img src={logoImg} alt="Imagem de um controle e WON escrito ao lado direito" />
           </div>
         </div>
       </Container>
