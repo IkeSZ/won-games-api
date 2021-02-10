@@ -24,12 +24,7 @@
     "short_description": {
       "type": "text",
       "required": true,
-      "unique": false,
-      "maxLength": 160
-    },
-    "description": {
-      "type": "richtext",
-      "required": true
+      "unique": false
     },
     "price": {
       "type": "decimal",
